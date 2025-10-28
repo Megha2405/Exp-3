@@ -20,8 +20,7 @@ Create the following diagrams in StarUML:
 
 # DIAGRAMS:
 Use Case Diagram:
-![alt text](image.png)
-
+![alt text](image-6.png)
 Class Diagram:
 ![alt text](image-1.png)
 
