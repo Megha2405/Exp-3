@@ -1,10 +1,41 @@
 # Exp - 3 RAILWAY MANAGEMENT SYSTEM
 
 # AIM:
+To draw the UML diagram for Railway Management System.
 
 # SRS (Procedure):
+Create the following diagrams in StarUML:
+
+◉ Use Case Diagram
+
+◉ Class Diagram
+
+◉ Activity Diagram
+
+◉ Package Diagram
+
+◉ Communication Diagram
+
+◉ Sequence Diagram
 
 # DIAGRAMS:
-(upload all 6 diagrams)
+Use Case Diagram:
+![alt text](image.png)
+
+Class Diagram:
+![alt text](image-1.png)
+
+Activity Diagram:
+![alt text](image-2.png)
+
+Package Diagram:
+![alt text](image-3.png)
+
+Communication Diagram:
+![alt text](image-4.png)
+
+Sequence Diagram:
+![alt text](image-5.png)
 
 # RESULT:
+Thus the project to develop e-ticketing system was developed using Star UML Software.
