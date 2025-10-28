@@ -19,21 +19,22 @@ Create the following diagrams in StarUML:
 ◉ Sequence Diagram
 
 # DIAGRAMS:
-Use Case Diagram:
+# Use Case Diagram:
 ![alt text](image-6.png)
-Class Diagram:
+
+# Class Diagram:
 ![alt text](image-1.png)
 
-Activity Diagram:
+# Activity Diagram:
 ![alt text](image-2.png)
 
-Package Diagram:
+# Package Diagram:
 ![alt text](image-3.png)
 
-Communication Diagram:
+# Communication Diagram:
 ![alt text](image-4.png)
 
-Sequence Diagram:
+# Sequence Diagram:
 ![alt text](image-5.png)
 
 # RESULT:
