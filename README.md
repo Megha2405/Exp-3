@@ -6,17 +6,32 @@ To draw the UML diagram for Railway Management System.
 # SRS (Procedure):
 Create the following diagrams in StarUML:
 
-◉ Use Case Diagram
+Use Case Diagram
 
-◉ Class Diagram
+Class Diagram
 
-◉ Activity Diagram
+Activity Diagram
 
-◉ Package Diagram
+Package Diagram
 
-◉ Communication Diagram
+Communication Diagram
 
-◉ Sequence Diagram
+Sequence Diagram
+
+Login: User logs into the system.
+
+Check Availability: User selects the number of passengers and checks seat availability.
+
+If Not Available, the process stops here.
+
+Enter Details: User provides the required details for all passengers.
+
+Make Payment: User selects a payment method and attempts payment.
+
+If Payment Failed, the process stops here.
+
+Generate Ticket: Upon successful payment, the system generates and issues the ticket.
+
 
 # DIAGRAMS:
 # Use Case Diagram:
